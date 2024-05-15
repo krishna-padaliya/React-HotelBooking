@@ -1,0 +1,203 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Lato, sans-serif;
+}
+.roomInfo{
+  margin-top: 20px;
+  /* border: 1px solid black; */
+}
+
+/* .roomInfo1  */
+.roomInfo1{
+  background:linear-gradient(to bottom, rgba(0,0,0,0) 40%, rgba(0,0,0,1)), url('../image/roominfobg.jpg');
+ width: 100%;
+ height: 350px;
+ background-size: cover;
+ background-attachment: fixed;
+ background-repeat: no-repeat;
+ color: #fff;
+}
+.roomInfo1 .nav-link{
+  text-decoration: none;
+  color: #fff;
+  font-size: 12px;
+  letter-spacing: 3px;
+  /* line-height: 5; */
+}
+.roomInfo1 #pricediv h1{
+   font-family: lato;
+   font-size: 55px;
+}
+.roomInfo1 #pricediv p{
+  letter-spacing: 2px;
+}
+/* .roomInfo1  */
+
+
+/* .roomInfo2  */
+.roomInfo2 h1{
+  font-size: 45px;
+  font-weight: lighter;
+  font-family: Lato;
+  letter-spacing: 3px;
+}
+.roomInfo2 p{
+  color: #5C5C5C;
+  font-size: 14px;
+  letter-spacing: 3px;
+}
+@media only screen and (max-width: 576px) {
+  #imgroominfo {
+    opacity: 0;
+  }
+}
+@media (min-width:577px) and (max-width:768px){
+  #imgroominfo {
+    opacity: 0;
+  }
+}
+@media (min-width:769px) and (max-width:992px){
+  #imgroominfo {
+    opacity: 0;
+  }
+}
+/* .roomInfo2  */
+
+
+
+
+/* .roomInfo3  */
+.roomInfo3{
+
+}
+.roomInfo3 #date{
+  background-color: #585F77;
+  color: 76B1C4;
+  padding: 20px;
+}
+.roomInfo3 #calender{
+  border: 1px solid blanchedalmond;
+  border-radius: 10px;
+  font-size: 18px;
+  margin-top: 40px;
+  font-family: lato;
+  letter-spacing: 3px;
+  margin-bottom: 50px;
+}
+.roomInfo3 input{
+  background-color:transparent;
+  border: none;
+  color: #fff;
+  width: 130px;
+  padding: 10px;
+  border: 1px sollid blanchedalmond;
+}
+.roomInfo3 span{
+  color: #fff;
+  font-size: 20px;
+}
+.roomInfo3 p{
+  color: #fff;
+  font-size: 12px;
+  letter-spacing: 2px;
+  margin-top: 30px;
+}
+.roomInfo3 h1{
+  color: #fff;
+  font-size: 80px;
+  letter-spacing: 3px;
+  font-family: lato;
+}
+.roomInfo3 h6{
+  color: #fff;
+}
+.roomInfo3 #mybook{
+  background-color: #76b1c4;
+  color: #fff;
+  font-size: 12px;
+  letter-spacing: 3px;
+  margin-top: 15px;
+  width: 300px;
+}
+.roomInfo3 #mybook:hover{
+  font-weight: 900;
+  background-color: #76b1c4;
+  color: #fff;
+}
+/* .roomInfo3  */
+
+
+/* .roomInfo5 */
+.roomInfo5{
+  margin-top: 70px;
+  margin-bottom: 50px;
+}
+.roomInfo5 h6{
+  font-size: 25px;
+  letter-spacing: 4px;
+  color: #525252;
+  margin-bottom: 20px;
+}
+.roomInfo5 p{
+  color: #5C5C5C;
+  letter-spacing: 1px;
+}
+/* .roomInfo5 */
+
+
+
+/* .roomInfo6 */
+.roomInfo6{
+  margin-bottom: 40px;
+}
+.roomInfo6 h6{
+  font-size: 25px;
+  letter-spacing: 4px;
+  color: #525252;
+  margin-bottom: 20px;
+}
+.roomInfo6 .view{
+  position: relative;
+  /* border: 1px solid black; */
+overflow: hidden;
+}
+ .view img{
+  height: 350px;
+  transition: 1s;
+}
+.view img:hover{
+  transform: scale(1.1)
+}
+.roomInfo6 .viewtext{
+  position: absolute;
+  top: 90%;
+  left: 0%;
+  color: #fff;
+  background-color: #525252;
+  padding: 5px;
+  letter-spacing: 2px;
+}
+/* .roomInfo6 */
+
+
+
+/* .roomInfo7 */
+.roomInfo7{
+  margin-top: 40px;
+}
+.roomInfo7 h6{
+  font-size: 25px;
+  letter-spacing: 4px;
+  color: #525252;
+  margin-bottom: 20px;
+}
+
+
+
+
+
+/* .roomInfo7 */
+
+

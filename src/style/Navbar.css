@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Lato,sans-serif;
+    
+}
+.top_nav{
+    background-image: url('../image/nav.jpg');
+    width: 100%;
+    /* height: 40px; */
+    color: #fff;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.top_nav li{
+    list-style: none;
+    padding: 5px;
+}
+.middle_nav{
+width: 100%;
+}
+.bottom_nav{
+    width: 100%;
+}
+.bottom_nav .nav-link{
+    text-decoration: none;
+    padding: 0px 20px;
+    letter-spacing: 2px;
+    color: #7E7E7E;
+    font-size: 15px;
+}
+.bottom_nav #cartlength{
+    border-radius: 3px;
+    box-shadow: 0px 0px 0px 0px rgb(0 0 0 / 10%);
+    background-color: #76b1c4;
+    margin-left: 2px;
+    height: 30px;
+    width: 150px;
+   /* padding: 10px; */
+   /* margin-top: -5px; */
+}
+#bookbtn{
+    font-size: 12px;
+    font-weight: normal;
+    line-height: 1em;
+    letter-spacing: 3px;
+    color: #FFFFFF;
+    margin-left: -20px;
+}
+#cartlength{
+    position: relative;
+}
+#cartlength span{
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color:#c9e9f478;
+    margin-top: 3px;
+    font-size: 12px;
+   margin-right: 15px;
+}
