@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/React-HotelBooking/static/css/main.34cb1a66.css",
+    "main.js": "/React-HotelBooking/static/js/main.aa7ab8db.js",
+    "static/js/453.8af977a8.chunk.js": "/React-HotelBooking/static/js/453.8af977a8.chunk.js",
+    "static/media/checkoutbg.jpg": "/React-HotelBooking/static/media/checkoutbg.769ac4cca06f171d00ca.jpg",
+    "static/media/homeab.jpg": "/React-HotelBooking/static/media/homeab.059c94bfece477c0d443.jpg",
+    "static/media/contactbg.jpg": "/React-HotelBooking/static/media/contactbg.350838169f0edb108d19.jpg",
+    "static/media/about1.jpg": "/React-HotelBooking/static/media/about1.4a13927a5fabd67fbaa6.jpg",
+    "static/media/roominfobg.jpg": "/React-HotelBooking/static/media/roominfobg.3cb6ebe467f0a9be650d.jpg",
+    "static/media/roombg.jpg": "/React-HotelBooking/static/media/roombg.32d129b2dad2bb6d7abd.jpg",
+    "static/media/about.jpg": "/React-HotelBooking/static/media/about.061abd62015f896071c1.jpg",
+    "static/media/headerbg.jpg": "/React-HotelBooking/static/media/headerbg.6a879b4925a0ca9e0e52.jpg",
+    "static/media/nav.jpg": "/React-HotelBooking/static/media/nav.cadc1c8496cc35f16226.jpg",
+    "index.html": "/React-HotelBooking/index.html",
+    "main.34cb1a66.css.map": "/React-HotelBooking/static/css/main.34cb1a66.css.map",
+    "main.aa7ab8db.js.map": "/React-HotelBooking/static/js/main.aa7ab8db.js.map",
+    "453.8af977a8.chunk.js.map": "/React-HotelBooking/static/js/453.8af977a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34cb1a66.css",
+    "static/js/main.aa7ab8db.js"
+  ]
+}
